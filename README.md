@@ -11,7 +11,7 @@
 It is a Discord Clone, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
   
 
-  <a href="https://pandagithub11.github.io/Dabotics-Scientific_Calculator/"><strong>➥ Live Demo</strong></a>
+  <a href="https://pandagithub11.github.io/Dabotics_discordclone/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
